@@ -1,4 +1,3 @@
-<--### Hi there -->
 <h2> Hi! I'm Christy 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
