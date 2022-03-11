@@ -32,7 +32,7 @@
 
 <br/>
 
-[![cshepscorp's GitHub stats](https://github-readme-stats.vercel.app/api?username=cshepscorp&show_icons=true&theme=cobalt)](https://github.com/cshepscorp/github-readme-stats)
+[![cshepscorp's GitHub stats](https://github-readme-stats.vercel.app/api?username=cshepscorp&show_icons=true&theme=swift)](https://github.com/cshepscorp/github-readme-stats)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
