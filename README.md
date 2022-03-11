@@ -32,12 +32,11 @@
 
 <br/>
 
-[![cshepscorp's GitHub stats](https://github-readme-stats.vercel.app/api?username=cshepscorp)](https://github.com/cshepscorp/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cshepscorp)](https://github.com/cshepscorp/github-readme-stats)
+[![cshepscorp's GitHub stats](https://github-readme-stats.vercel.app/api?username=cshepscorp&show_icons=true&theme=cobalt)](https://github.com/cshepscorp/github-readme-stats)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://morning-gorge-60184.herokuapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-My%20Portfolio-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/christinasheppard/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christy%20Sheppard-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/cshepscorp"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-cshepscorp-blue?style=flat-square&logo=instagram"></a>
