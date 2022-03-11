@@ -1,4 +1,5 @@
-<h2> Hi! I'm Christy 👋</h2>
+<h2> Hi! I'm Christy 👋 (she/her)</h2>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
