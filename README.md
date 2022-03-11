@@ -1,7 +1,7 @@
 <h2> Hi! I'm Christy 👋 (she/her)</h2>
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and working on my resume/portfolio.
 - 🎓 &nbsp; Recently completed Full-Stack Coding Bootcamp at the University of Richmond.
