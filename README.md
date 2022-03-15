@@ -34,7 +34,7 @@
 
 <br/>
 
-[![cshepscorp's GitHub stats](https://github-readme-stats.vercel.app/api?username=cshepscorp&show_icons=true&theme=tokyonight)](https://github.com/cshepscorp/github-readme-stats)
+[![cshepscorp's GitHub stats](https://github-readme-stats.vercel.app/api?username=cshepscorp&show_icons=true&theme=algolia)](https://github.com/cshepscorp/github-readme-stats)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
